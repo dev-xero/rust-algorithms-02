@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\quick-sort\\Cargo.toml"
+    ]
+}
